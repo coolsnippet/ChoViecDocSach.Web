@@ -8,6 +8,8 @@ using Microsoft.Extensions.Configuration;
 
 namespace ChoViecDocSach.Web
 {
+    // I need to read this at home then
+    // http://www.codeproject.com/Articles/1110660/How-To-Open-Build-Debug-Multiple-Projects-in-VS-Co
     public class Program
     {
         public static void Main(string[] args)
